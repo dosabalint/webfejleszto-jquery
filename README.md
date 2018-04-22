@@ -75,3 +75,13 @@ Lett egy blogunk. Gombnyomásra feldobtunk egy modalt. A modalban pedig két inp
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-jquery-02-02
+
+### 2/3. feladat - Kérdőív
+
+**Feladat**
+
+Van néhány kérdésünk, ezekre input mezőkkel tud válaszolni a felhasználó. Jelezzünk vissza neki progressbarral, hogy hol is tart a kitöltésben.
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-jquery-02-03
