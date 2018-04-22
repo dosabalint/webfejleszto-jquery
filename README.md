@@ -1,4 +1,4 @@
-# Webfejlesztő leszek! VueJS Edition - jQuery kurzus összefoglaló
+# Webfejlesztő leszek! VueJS Edition - jQuery repositoryk
 
 ## 1. alkalom
 
