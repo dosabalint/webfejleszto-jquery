@@ -53,3 +53,25 @@ https://github.com/dosabalint/webfejleszto-jquery-01-04
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-jquery-01-05
+
+### 2. alkalom
+
+### 2/1. feladat - Validálás
+
+**Feladat**
+
+Validáltunk egy regisztrációs formot. Hibás kitöltés esetén visszajeleztünk a felhasználónak. Megfelelő kitöltésre viszont beígértünk neki egy átirányítást a következő oldalra.
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-jquery-02-01
+
+### 2/2. feladat - Blog
+
+**Feladat**
+
+Lett egy blogunk. Gombnyomásra feldobtunk egy modalt. A modalban pedig két input mező használatával készítettünk új blogbejegyzéseket.
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-jquery-02-02
