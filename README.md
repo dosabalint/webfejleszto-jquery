@@ -1,6 +1,6 @@
 # Webfejlesztő leszek! VueJS Edition - jQuery repositoryk
 
-## 1. alkalom - 2018-04-17
+## 1. alkalom - 2018 április 17.
 
 ### 1/1. feladat - Bevezető
 
@@ -54,7 +54,7 @@ https://github.com/dosabalint/webfejleszto-jquery-01-04
 
 https://github.com/dosabalint/webfejleszto-jquery-01-05
 
-### 2. alkalom - 2018-04-19
+### 2. alkalom - 2018 április 19.
 
 ### 2/1. feladat - Validálás
 
@@ -86,10 +86,10 @@ Van néhány kérdésünk, ezekre input mezőkkel tud válaszolni a felhasznál�
 
 https://github.com/dosabalint/webfejleszto-jquery-02-03
 
-### 3. alkalom - 2018-04-25
+### 3. alkalom - 2018 április 25.
 
 Előkészületben
 
-### 4. alkalom - 2018-04-26
+### 4. alkalom - 2018 április 26.
 
 Előkészületben
