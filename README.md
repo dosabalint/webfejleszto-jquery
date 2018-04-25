@@ -88,7 +88,27 @@ https://github.com/dosabalint/webfejleszto-jquery-02-03
 
 ## 3. alkalom - 2018 április 25.
 
-Előkészületben
+### 3/1. feladat - Scroll to top
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-jquery-03-01
+
+### 3/2. feladat - Dropdown
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-jquery-03-02
+
+### 3/3. feladat - Lazy Load
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-jquery-03-03
+
+**Egyéb linkek**
+
+https://github.com/tuupola/jquery_lazyload
 
 ## 4. alkalom - 2018 április 26.
 
