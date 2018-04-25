@@ -110,6 +110,10 @@ https://github.com/dosabalint/webfejleszto-jquery-03-03
 
 https://github.com/tuupola/jquery_lazyload
 
+### 3/4. feladat - PhotoSwipe
+
+Folyamatban
+
 ## 4. alkalom - 2018 április 26.
 
 Előkészületben
