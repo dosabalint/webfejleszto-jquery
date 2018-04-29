@@ -3,6 +3,7 @@
 ## Elérhetőségek
 
 **NetAcademia Frontend csoport facebookon**
+
 https://www.facebook.com/groups/364060044017273/
 
 **Email**
