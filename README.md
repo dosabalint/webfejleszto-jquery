@@ -7,8 +7,8 @@
 https://www.facebook.com/groups/364060044017273/
 
 **Email**
-* oktatok@netacademia.hu
 * dosa.balint@netacademia.hu
+* oktatok@netacademia.hu
 
 ## Tartalomjegyzék
 
