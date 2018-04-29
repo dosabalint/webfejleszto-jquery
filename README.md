@@ -171,7 +171,7 @@ https://github.com/dosabalint/webfejleszto-jquery-04-01
 * https://masonry.desandro.com/
 * https://imagesloaded.desandro.com/
 
-### 4/1. feladat - Lapozó
+### 4/2. feladat - Lapozó
 
 **Feladat**
 
