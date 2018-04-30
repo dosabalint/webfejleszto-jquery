@@ -1,5 +1,12 @@
 # Webfejlesztő leszek! VueJS Edition - jQuery repositoryk
 
+## Tartalomjegyzék
+
+* [1. alkalom - 2018 április 17.](#1-alkalom---2018-április-17)
+* [2. alkalom - 2018 április 19.](#2-alkalom---2018-április-19)
+* [3. alkalom - 2018 április 25.](#3-alkalom---2018-április-25)
+* [4. alkalom - 2018 április 26.](#4-alkalom---2018-április-26)
+
 ## Elérhetőségek
 
 **NetAcademia Frontend csoport facebookon**
@@ -9,13 +16,6 @@ https://www.facebook.com/groups/364060044017273/
 **Email**
 * dosa.balint@netacademia.hu
 * oktatok@netacademia.hu
-
-## Tartalomjegyzék
-
-* [1. alkalom - 2018 április 17.](#1-alkalom---2018-április-17)
-* [2. alkalom - 2018 április 19.](#2-alkalom---2018-április-19)
-* [3. alkalom - 2018 április 25.](#3-alkalom---2018-április-25)
-* [4. alkalom - 2018 április 26.](#4-alkalom---2018-április-26)
 
 ## 1. alkalom - 2018 április 17.
 
